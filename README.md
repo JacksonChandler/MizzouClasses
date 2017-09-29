@@ -25,3 +25,9 @@ Culmination of classwork and project from classes at Mizzou
                   |
                   └── Your actual code goes here
 ```
+# Need Help?
+ ### With Markdown?
+   Check out this resource: http://commonmark.org/help/
+ ### Don't See Your Degree Program?
+   Create a new folder system! Just follow the heiarchy above. :)
+ 
