@@ -2,11 +2,12 @@
 Culmination of classwork and project from classes at Mizzou
 
 # How to add your work
+To be done with each assignment:
   * Create a branch
   * Upload your work
   * Create your own readme with the following answered
     * Who was your Professor?
-    * Did you finish?
+    * Did you finish the assignment?
     * What was your grade if applicable?
     * Any other helpful information future viewers?
   * Create a merge request to the appropriate path
@@ -24,6 +25,7 @@ Culmination of classwork and project from classes at Mizzou
               └── Example #++ (ie Example 1 is the first folder, Example 2 is second, and etc)
                   |
                   └── Your actual code goes here
+                  └── Your ReadMe also goes here
 ```
 # Need Help?
  ### With Markdown?
