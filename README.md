@@ -7,9 +7,13 @@ To be done with each assignment:
   * Upload your work
   * Create your own readme with the following answered
     * Who was your Professor?
+      * (Professor: John Doe)
     * Did you finish the assignment?
+      * (Status: Complete)
     * What was your grade if applicable?
+      * (Grade: 100%)
     * Any other helpful information future viewers?
+      * (Version is Swift 4, Professor suggested xyz be changed to Fred for continuity.)
   * Create a merge request to the appropriate path
   
 # Propery Heiarchy
@@ -20,9 +24,9 @@ To be done with each assignment:
       |
       └── Semester Taking Course (ie Fall 2015)
           |
-          └── Lesson Name (ie Homework 1)
+          └── Example #++ (ie Example 1 is the first folder, Example 2 is second, and etc)
               |
-              └── Example #++ (ie Example 1 is the first folder, Example 2 is second, and etc)
+              └── Lesson Name (ie Homework 1)
                   |
                   └── Your actual code goes here
                   └── Your ReadMe also goes here
