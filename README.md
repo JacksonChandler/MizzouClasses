@@ -1,5 +1,5 @@
 # MizzouClasses
-Culmination of classwork and project from classes at Mizzou
+Culmination of classwork and project from classes at Mizzou from multiple sources to assist and educate future students through example and tutorials.
 
 # How to add your work
 To be done with each assignment:
@@ -38,6 +38,8 @@ To be done with each assignment:
    Create a new folder system! Just follow the heiarchy above. :)
  
 # Tutorials
+ * GitHub
+   * [GitHub Hello World Documentation](https://guides.github.com/activities/hello-world/)
  * C#
    * [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
  * HTML
